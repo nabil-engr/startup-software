@@ -1,0 +1,13 @@
+{
+  "extends": ["html-validate:recommended"],
+  "rules": {
+    "attribute-boolean-style": "off",
+    "doctype-style": "off",
+    "hidden-focusable": "off",
+    "no-inline-style": "off",
+    "no-raw-characters": "off",
+    "prefer-tbody": "off",
+    "svg-focusable": "off",
+    "void-style": "off"
+  }
+}
